@@ -1,11 +1,11 @@
 body {
-  background-color:black;
+  background-color: black;
   font-size: 3vh;
   place-items: center;
   margin: auto;
 }
-#about{
-  background-image: linear-gradient(30deg,rgb(84, 212, 235),rgb(32, 105, 32));
+#about {
+  background-image: linear-gradient(30deg, rgb(84, 212, 235), rgb(32, 105, 32));
 }
 div {
   margin: 20px auto;
@@ -15,11 +15,12 @@ div {
   background-color: rgb(34, 231, 166);
   box-shadow: 6px 4px 3px #151616;
 }
-div:hover{
+div:hover {
   background-color: rgb(243, 170, 33);
   transition: all 0.4s ease-in;
 }
-input,textarea {
+input,
+textarea {
   display: block;
   margin-bottom: 3px;
   width: 35%;
