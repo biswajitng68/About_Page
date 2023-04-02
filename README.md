@@ -1,7 +1,5 @@
 ﻿# Get to Know About Us & Our Work
- 
-#CoinBook Brief
-#CoinBook is a web based application to track our daily life expenses in more disciplined and expressive manner. It is Developed using the demanding MERN Stack Technologies
+ CoinBook is a web based application to track our daily life expenses in more disciplined and expressive manner. It is Developed using the demanding MERN Stack Technologies
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
